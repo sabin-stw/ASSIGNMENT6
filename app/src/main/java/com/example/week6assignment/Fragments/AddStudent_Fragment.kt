@@ -1,4 +1,4 @@
-package com.nibriti.softuser_week6assignment.fragments
+package com.example.week6assignment.Fragments
 
 import android.os.Bundle
 import android.text.TextUtils
